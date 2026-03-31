@@ -1,4 +1,3 @@
-# Bit_Error_Rate_Analyser
 # MATLAB BER Performance Analyzer
 
 This project implements an **object-oriented BER (Bit Error Rate) analyzer in MATLAB** for digital communication systems.  
