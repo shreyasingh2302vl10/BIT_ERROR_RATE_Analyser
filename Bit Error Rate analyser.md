@@ -1,3 +1,4 @@
+# MATLAB CODE
 ```matlab
 classdef BERAnalyzer
     properties
